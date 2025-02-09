@@ -21,3 +21,5 @@ If you are using openHABian on a Raspberry Pi then the installation is pretty ea
 2. Select "Zigbee2MQTT".
 3. After are asked if you want to update.
 4. After about 3 to 4 minutes Zigbee2MQTT should be up and running. You can test if the configuration page is available on port 8081.
+
+# Missing link to deal (read write states, etc) zigbee2mqtt devices
