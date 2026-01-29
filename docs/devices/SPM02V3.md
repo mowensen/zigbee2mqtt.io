@@ -23,7 +23,7 @@ pageClass: device-page
 
 
 <!-- Notes BEGIN: You can edit here. Add "## Notes" headline if not already present. -->
-
+Could you please add the criterias that force the sensor to send it's report (the values that would be set in Z2M's "change" and "interval" which does not seem to be configurable with this sensor)
 
 <!-- Notes END: Do not edit below this line -->
 
